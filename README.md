@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rohit Garg 👋
 
-<!--
-**Rohit822008/Rohit822008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & Engineering Undergraduate at Lovely Professional University  
+💻 Aspiring Full-Stack Software Engineer targeting scalable web applications and distributed systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Current Skills
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Tools & Resources:** Git, GitHub, VS Code, MDN Web Docs
+- **Focus Areas:** Web Development, Python Programming, Frontend Foundations
+
+---
+
+### 📌 Current Focus & Learning Goals
+- 🌐 Building responsive web applications (HTML, CSS, JavaScript)
+- 🐍 Deepening core Python skills and algorithmic problem-solving
+- 🚀 Planning C++, Data Structures & DBMS deep dive starting January 2027
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [linkedin.com/in/rohit-garg-029319418](https://www.linkedin.com/in/rohit-garg-029319418)
