@@ -20,4 +20,4 @@
 ---
 
 ### 📬 Connect With Me
-- **LinkedIn:** [linkedin.com/in/[YOUR-NEW-LINKEDIN-HANDLE]](https://www.linkedin.com/in/[YOUR-NEW-LINKEDIN-HANDLE])
+- **LinkedIn:** [linkedin.com/in/rohit822008](https://www.linkedin.com/in/rohit822008/)
